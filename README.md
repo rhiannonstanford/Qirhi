@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 🤙🏽
+
+💻 I’m currently working on small kine web apps.
+🌴 I’m currently learning HTML, CSS, Javascript, React.
+🌺 Favorite things:  The islands, the beach, my puppy, medicine, and apps.
 
 <!--
 **Qirhi/Qirhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
