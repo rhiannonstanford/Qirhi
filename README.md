@@ -1,6 +1,6 @@
 ### Hi there 🤙🏽
 
-💻 I’m currently working on small kine web apps.
+💻 I’m currently working on small kine web apps.<br/>
 🌴 Learning HTML, CSS, Javascript, React.
 🌺 Favorite things:  The islands, the beach, my puppy, medicine, and apps.
 
