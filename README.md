@@ -1,9 +1,20 @@
-### Welcome! 
+## Welcome! 
 
 
-💻 I'm Rhiannon, Full Stack Web Developer with a passion for design.<br/>
-🌴 Techologies: HTML, CSS, JavaScript, React, Redux, Context API, Material UI, Bootstrap, Reactstrap, Styled Components, Node.<br/>
-🌺 Learning:  Typescript, React Native, Express.<br/>
+### 💻 I'm Rhiannon
+  Full Stack Web Developer with a *passion for design*.<br/>
+### 🌴 Techologies: 
+  - HTML5, CSS, JavaScript, Node.js    
+  - Material UI, Bootstrap, Reactstrap, Styled Components, GreenSock / GSAP
+  - Axios
+  - React, Redux, Context API
+  - React Testing Library, Cypress, Jest
+  - Responsive Web Design, Gatsby, Netlify, Vercel
+
+### 🌺 Learning:
+  - Typescript, React Native, Express, SQL
+<br/>
+
 
 <!--
 **Qirhi/Qirhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
