@@ -13,7 +13,6 @@
 
 ### 🌺 Learning:
   - Typescript, React Native, Express, SQL
-<br/>
 
 ### 🥥 Contact:
   - *[LinkedIn](https://www.linkedin.com/in/rhiannon-stanford-35144973/)*
