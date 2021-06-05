@@ -15,6 +15,9 @@
   - Typescript, React Native, Express, SQL
 <br/>
 
+### 🥥 Contact:
+  - *[LinkedIn](https://www.linkedin.com/in/rhiannon-stanford-35144973/)*
+
 
 <!--
 **Qirhi/Qirhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
