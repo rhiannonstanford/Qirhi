@@ -17,9 +17,9 @@
 ### 🥥 Contact:
   - *[LinkedIn](https://www.linkedin.com/in/rhiannon-stanford-35144973/)*
 
-<img src="iphone.png"
+    <img src="iphone.png"
      alt="iphone"
-     style="float: left; width: 100px; margin: 100px;" />
+     style="width:200px;" />
 
 
 <!--
