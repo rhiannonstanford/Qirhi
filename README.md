@@ -1,8 +1,9 @@
-### Hi there 🤙🏽
+### Welcome! 
 
-💻 I’m currently working on small kine web apps.<br/>
-🌴 Learning HTML, CSS, Javascript, React.<br/>
-🌺 Favorite things:  The islands, the beach, my puppy, medicine, and apps.<br/>
+
+💻 I'm Rhiannon, Full Stack Web Developer with a passion for design.<br/>
+🌴 Techologies: HTML, CSS, JavaScript, React, Redux, Context API, Material UI, Bootstrap, Reactstrap, Styled Components, Node.<br/>
+🌺 Learning:  Typescript, React Native, Express.<br/>
 
 <!--
 **Qirhi/Qirhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
