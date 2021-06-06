@@ -16,7 +16,6 @@
 
 ### 🥥 Contact:
   - *[LinkedIn](https://www.linkedin.com/in/rhiannon-stanford-35144973/)*
-  - *[Email](mailto:rhiannonstanford@gmail.com)*
 
 
 
