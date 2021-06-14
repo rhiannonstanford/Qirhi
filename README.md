@@ -10,7 +10,7 @@
   - React, Redux, Context API
   - React Testing Library, Cypress, Jest
   - Responsive Web Design, Gatsby, Netlify, Vercel
-  - Node.js, Express, Knex, Helmet, CORS, REST
+  - Node.js, Express, Knex, Helmet, Morgan, CORS, REST
 
 ### 🌺 Learning:
   - Typescript, React Native, Express, SQL
