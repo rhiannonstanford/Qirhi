@@ -4,12 +4,13 @@
 ### 💻 I'm Rhiannon
   Full Stack Web Developer with a *passion for design*.<br/>
 ### 🌴 Techologies: 
-  - HTML5, CSS, JavaScript, Node.js    
+  - HTML5, CSS, JavaScript  
   - Material UI, Bootstrap, Reactstrap, Styled Components, GreenSock / GSAP
   - Axios
   - React, Redux, Context API
   - React Testing Library, Cypress, Jest
   - Responsive Web Design, Gatsby, Netlify, Vercel
+  - Node.js, Express, Knex, Helmet, CORS, REST
 
 ### 🌺 Learning:
   - Typescript, React Native, Express, SQL
