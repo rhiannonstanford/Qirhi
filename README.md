@@ -4,16 +4,18 @@
 ### 💻 I'm Rhiannon
   Full Stack Web Developer with a *passion for design*.<br/>
 ### 🌴 Techologies: 
-  - HTML5, CSS, JavaScript  
-  - Material UI, Bootstrap, Reactstrap, Styled Components, GreenSock / GSAP
-  - Axios
-  - React, Redux, Context API
+  - HTML5, CSS, JavaScript, React, Typescript
+  - Redux, Context API
+  - Tailwind, Semantic UI, Material UI, Bootstrap, Reactstrap, Styled Components, GreenSock / GSAP
+  - Handlebars
+  - Axios, Fetch API
   - React Testing Library, Cypress, Jest, Yup
   - Responsive Web Design, Gatsby, Netlify, Vercel
-  - Node.js, Express, Knex, Helmet, CORS, REST, Heroku
+  - Node.js, Express, Knex, Sequelize, Helmet, CORS, REST, Heroku
+  - SQL, PostGres, Docker
 
 ### 🌺 Learning:
-  - Typescript, React Native, Express, SQL
+  - Typescript, React Native, Swift
 
 ### 🥥 Contact:
   - *[LinkedIn](https://www.linkedin.com/in/rhiannon-stanford-35144973/)*
