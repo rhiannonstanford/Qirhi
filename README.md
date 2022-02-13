@@ -1,4 +1,13 @@
-## Welcome! 
+<!-- ## Welcome!  -->
+
+<h1> <img src="https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif" width="60">  </h1> 
+<!-- <img align='right' src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif" width="230"> -->
+
+<!-- <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120">  -->
+<div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/l1sYeVKi65h9AblTjx/giphy.gif" width="60"> 
+</div>
 
 
 ### 💻 I'm Rhiannon
