@@ -33,6 +33,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qirhi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
+ 
+ [![Rhiannon's GitHub stats](https://github-readme-stats.vercel.app/api?username=qirhi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
