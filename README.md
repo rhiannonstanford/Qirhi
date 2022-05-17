@@ -24,7 +24,7 @@
   - SQL, PostGres, Docker
 
 ### 🌺 Learning:
-  - Typescript, React Native, Swift
+  - React Native, Swift
 
 ### 🥥 Contact:
   - *[LinkedIn](https://www.linkedin.com/in/rhiannon-stanford-35144973/)*
