@@ -29,10 +29,10 @@
 ### 🥥 Contact:
   - *[LinkedIn](https://www.linkedin.com/in/rhiannon-stanford-35144973/)*
 
-[![Rhiannon's github stats](https://github-readme-stats.vercel.app/api?username=Qirhi&count_private=true&show_icons=true&theme=prussian&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Rhiannon's github stats](https://github-readme-stats.vercel.app/api?username=Qirhi&count_private=true&show_icons=true&theme=prussian&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qirhi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 
 
 <!--
