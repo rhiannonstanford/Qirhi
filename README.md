@@ -19,8 +19,8 @@
   - Handlebars
   - Axios, Fetch API
   - React Testing Library, Cypress, Jest, Yup
-  - Responsive Web Design, Gatsby, Netlify, Vercel
-  - Node.js, Express, Knex, Sequelize, Helmet, CORS, REST, Heroku
+  - Responsive Web Design, Gatsby, Netlify, Vercel, Heroku
+  - Node.js, Express, Knex, Sequelize, Helmet, CORS, REST
   - SQL, PostGres, Docker
 
 ### 🌺 Learning:
